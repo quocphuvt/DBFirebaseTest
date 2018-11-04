@@ -5,6 +5,7 @@ public class LoginActivity{
     String email;
     String phone;
     String home;
+    String age;
     public LoginActivity(){
 
     }
