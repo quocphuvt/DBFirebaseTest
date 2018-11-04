@@ -6,6 +6,7 @@ public class LoginActivity{
     String phone;
     String home;
     String age;
+    String year;
     public LoginActivity(){
 
     }
