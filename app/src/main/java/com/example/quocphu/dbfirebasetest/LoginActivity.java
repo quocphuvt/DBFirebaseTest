@@ -4,6 +4,7 @@ public class LoginActivity{
     String name;
     String email;
     String phone;
+    String home;
     public LoginActivity(){
 
     }
